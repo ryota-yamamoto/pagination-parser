@@ -1,6 +1,6 @@
 {
   "name": "pagination-parser",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "pagination parser for github api style",
   "main": "./lib/index.js",
   "directories": {
