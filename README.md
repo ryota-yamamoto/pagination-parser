@@ -1,7 +1,13 @@
 # pagination-parser
-A parser for GitHub API style pagination info.
+A parser for [GitHub API v3 style pagination](https://developer.github.com/v3/guides/traversing-with-pagination/) information.
 
 ------
+
+## Installing
+
+```bash
+$ npm install --save pagination-parser 
+```
 
 ## Example
 
