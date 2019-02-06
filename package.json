@@ -29,9 +29,9 @@
   "author": "ryota-yamamoto",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ryota-yamamoto/pagination-parser/issues"
+    "url": "https://github.com/ymmooot/pagination-parser/issues"
   },
-  "homepage": "https://github.com/ryota-yamamoto/pagination-parser#readme",
+  "homepage": "https://github.com/ymmooot/pagination-parser#readme",
   "devDependencies": {
     "@babel/core": "^7.1.2",
     "@babel/preset-env": "^7.1.0",
